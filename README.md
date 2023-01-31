@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Edwar</h1>
 <h3 align="center">A programmer who has huge interest in Game Development</h3>
 
+<h3 align="left">My Project:</h3>
+<p align="left">
+<a href="https://tekadabdul12.itch.io/infinity-run" target="blank"><img align="center" src="https://img.itch.zone/aW1nLzc4Nzc5MDUuanBlZw==/original/R%2FcNzr.jpeg" alt="infinity-run" height="30" width="40" /></a>
+<a href="https://aionsea.itch.io/fisuvile" target="blank"><img align="center" src="https://img.itch.zone/aW1hZ2UvMTQ5MTQ5My84Njk1MzcwLnBuZw==/original/VfSYpI.png" alt="fisuvile" height="30" width="40" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.TeanbeeGames.ChemgamesIkatanKimia" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/GIP3TOy98nErifR-mD2s9_x4-vQQzky6CqkY3wIQ3yynWV3rpAh-ZRKQI7LXFaE98A=w240-h480-rw" alt="chemgames" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/edwar-antoni-546a71141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwar-antoni-546a71141" height="30" width="40" /></a>
